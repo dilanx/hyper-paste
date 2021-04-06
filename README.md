@@ -21,5 +21,6 @@ Install like this.
 The screenshot includes the following:
 * [Hyper](https://hyper.is) terminal
 * [hyperborder](https://github.com/webmatze/hyperborder) Hyper extension
+* hyper-pastelle
 * [Pure](https://github.com/sindresorhus/pure) prompt for zsh
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) for zsh
