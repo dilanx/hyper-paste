@@ -14,6 +14,7 @@ I think I'll add some more features soon.
 
 ## Installation
 Install like this.
+
 `$ hyper install hyper-pastelle`
 
 ## About the screenshot
