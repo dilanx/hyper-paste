@@ -34,9 +34,7 @@ exports.decorateConfig = (config) => {
         },
         css: `
             ${config.css}
-            // hyper-snazzy inspired highlight line
-            // by inspired i mean copied and changed the color
-            
+            // hyper-snazzy inspired highlight line (bit different though)         
 			.tabs_title {
 						display: none !important;
 			}
@@ -51,13 +49,14 @@ exports.decorateConfig = (config) => {
                 height: 1px;
                 background-color: rgba(255, 255, 255, 1);
                 transform: scaleX(0);
+				transform-origin:  0% 50%
                 will-change: transform;
                 
             }
             .tab_tab.tab_active::before {
                 
                 transform: scaleX(1);
-                transition: all 200ms cubic-bezier(0, 0, 0.2, 1);
+                transition: transform 250ms ease-in-out;
                 
             }
             

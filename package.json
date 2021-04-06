@@ -1,6 +1,6 @@
 {
   "name": "hyper-pastelle",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "It's good what else do I say.",
   "main": "index.js",
   "scripts": {
