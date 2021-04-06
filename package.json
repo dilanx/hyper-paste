@@ -1,11 +1,19 @@
 {
-	"name": "hyper-paste",
-	"version": "1.0",
-	"description": "It's good what else do I say.",
-	"repository": "dilanx/hyper-paste",
-	"author": {
-		"name": "Dilan N",
-		"email": "support@blockhead7360.com",
-		"url": "https://blockhead7360.com"
-	}
+  "name": "hyper-pastelle",
+  "version": "1.0.0",
+  "description": "It's good what else do I say.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilanx/hyper-paste.git"
+  },
+  "author": "Dilan N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilanx/hyper-paste/issues"
+  },
+  "homepage": "https://github.com/dilanx/hyper-paste#readme"
 }
