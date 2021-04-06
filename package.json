@@ -1,6 +1,6 @@
 {
   "name": "hyper-pastelle",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "It's good what else do I say.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dilanx/hyper-paste.git"
+    "url": "git+https://github.com/dilanx/hyper-pastelle.git"
   },
   "author": "Dilan N",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dilanx/hyper-paste/issues"
+    "url": "https://github.com/dilanx/hyper-pastelle/issues"
   },
-  "homepage": "https://github.com/dilanx/hyper-paste#readme"
+  "homepage": "https://github.com/dilanx/hyper-pastelle"
 }
