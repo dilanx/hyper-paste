@@ -8,7 +8,7 @@ A nice pastel-type theme for [Hyper](https://hyper.is), heavily inspired by [hyp
 ## Features
 * Pastel color pallette
 * Unfocused panes dim
-* Tabs have an animated highlight
+* Selected tab is underlined
 
 I think I'll add some more features soon.
 
