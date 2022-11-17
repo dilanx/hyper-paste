@@ -1,7 +1,7 @@
 # hyper-pastelle
 A nice pastel-type theme for [Hyper](https://hyper.is), heavily inspired by [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy).
  
-![image](https://github.com/dilanx/hyper-pastelle/blob/main/image.png)
+![image](image.png)
 
 \* border, prompt, and syntax highlighting not included (see below)
 
